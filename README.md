@@ -12,29 +12,23 @@
 <table class="table">
     <thead class="thead-dark">
       <tr>
-        <th scope="col">#</th>
         <th scope="col"> country</th>
       </tr>
     </thead>
     <tbody>
       <tr>
-        <th scope="row">1</th>
         <td>US</td>
       </tr>
       <tr>
-        <th scope="row">2</th>
         <td>Morocco</td>
       </tr>
       <tr>
-        <th scope="row">3</th>
         <td>France</td>
       </tr>
       <tr>
-        <th scope="row">3</th>
         <td>China</td>
       </tr>
       <tr>
-        <th scope="row">3</th>
         <td>Spain</td>
       </tr>
     </tbody>
