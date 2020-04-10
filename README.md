@@ -8,11 +8,12 @@
 <h1>Coronavirus update</h1>
 <p>a program that gives u information about cases,deaths</p>
 <p>To run the executable file open build\exe.win-amd64-3.8 directory on your terminal and do the command:coronavirus.exe</p>
+<h1>Example of countries that are Available:</h1>
 <table class="table">
     <thead class="thead-dark">
       <tr>
         <th scope="col">#</th>
-        <th scope="col"> example countries Available:</th>
+        <th scope="col"> country</th>
       </tr>
     </thead>
     <tbody>
