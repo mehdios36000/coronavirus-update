@@ -12,7 +12,7 @@
     <thead class="thead-dark">
       <tr>
         <th scope="col">#</th>
-        <th scope="col"> example country Available:</th>
+        <th scope="col"> example countries Available:</th>
       </tr>
     </thead>
     <tbody>
