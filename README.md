@@ -31,8 +31,13 @@
       <tr>
         <td>Spain</td>
       </tr>
+         <tr>
+        <td>Afghanistan</td>
+      </tr>
+        
     </tbody>
   </table>
+  <p>generally to recieve date you should write the name of the country with a first capital letter and the rest in lower case</p>
   
  
 </body>
