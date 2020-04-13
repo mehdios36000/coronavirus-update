@@ -37,7 +37,7 @@
         
     </tbody>
   </table>
-  <p>generally to recieve date you should write the name of the country with a first capital letter and the rest in lower case</p>
+  <p>generally to recieve data you should write the name of the country with a first capital letter and the rest in lower case</p>
   
  
 </body>
